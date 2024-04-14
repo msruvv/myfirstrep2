@@ -9,7 +9,7 @@ Student assignment to learn git commands
 ```sh
 git clone https://github.com/teacher-fiit/GitCheatSheet
 ```
-**Задание 2**. Перейдите в созданную (клон6ированную) папку.
+**Задание 2**. Перейдите в созданную (клонированную) папку.
 
 **Задание 3**. Заполните второй столбец таблицы html-файла: после записи каждой ячейки индексируйте измененные файлы и выполняйте коммит.
 ```sh
@@ -24,6 +24,6 @@ git commit -m "ИзменениеCSS1"
 **Задание 5**. Создайте пустой (без файлов) публичный удаленный репозиторий в своем аккаунте на GitHub. 
 **Задание 6**. Отправьте изменения на удаленный репозиторий. Если будет необходимость, настройте подключения к удаленному репозиторию.
 ```sh
-git remote add origin https://github.com/username/myproject.git
-git записать команду отправки изменений
+git remote add myfirstrep1 https://github.com/msruvv/myfirstrep1.git
+git push myfirstrep1
 ```
