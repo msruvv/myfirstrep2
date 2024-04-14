@@ -24,6 +24,6 @@ git commit -m "ИзменениеCSS1"
 **Задание 5**. Создайте пустой (без файлов) публичный удаленный репозиторий в своем аккаунте на GitHub. 
 **Задание 6**. Отправьте изменения на удаленный репозиторий. Если будет необходимость, настройте подключения к удаленному репозиторию.
 ```sh
-git remote add myfirstrep1 https://github.com/msruvv/myfirstrep1.git
-git push myfirstrep1
+git remote add myfirstrep2 https://github.com/msruvv/myfirstrep2.git
+git push myfirstrep2
 ```
